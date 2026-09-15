@@ -181,12 +181,22 @@ This practical strengthened my understanding of **host discovery, network mappin
 
 ## 👤 Author
 
-**Kabo Sekoto**
-*Junior Cybersecurity Professional*
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-**Ethical Security • Practical Learning • Continuous Improvement**
+> `Learning → Building → Testing → Securing`
 
-🔵 **LinkedIn:** <a href="https://www.linkedin.com/in/kabosekoto/">https://www.linkedin.com/in/kabosekoto/</a>
-🔴 **YouTube:** <a href="https://www.youtube.com/@IamSkottK">https://www.youtube.com/@IamSkottK</a>
+This repository forms part of my practical cybersecurity learning portfolio and documents my hands on laboratory exercises..
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
