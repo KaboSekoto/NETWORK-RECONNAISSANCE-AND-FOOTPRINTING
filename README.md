@@ -1,7 +1,13 @@
+# 🔎 Nmap Network Reconnaissance Lab
+
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Nmap](https://img.shields.io/badge/Tool-Nmap-red)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Network Scanning & Host Discovery
 
-W2-PM-FINAL | ZENMAP AND NETWORK RECONNAISSACE 
+*W02-P02 | ZENMAP | NETWORK RECONNAISSANCE*
 ---
 Field                                             Detail
 ---
