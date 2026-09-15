@@ -17,7 +17,7 @@ Field                                             Detail
 | :--------------------- | :----------------------------------------- |
 | 👨‍💻 **Pentester**    | **Kabo Sekoto**                            |
 | 🎓 **Program / Batch** | **B0823 — Networkwalks**                    |
-| 📅 **Date**            | **15 September 2026**                      |
+| 📅 **Date**            | **16 September 2026**                      |
 | 🧪 **Module**          | **W2— Zenmap Scanning**               |
 | 🎯 **Client / Target** | **Portswigger Network**                  |
 | 🔐 **Authorization**   | ✅ **Permission Secured**                   |
